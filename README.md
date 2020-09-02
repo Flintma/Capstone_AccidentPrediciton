@@ -31,4 +31,3 @@ LogisticRegression	0.7021	14.5863
 LinearSVC	0.7045	60.1778
 Considering this is only a quit mini dataset and our purpose is scaling this up to the total 12G dataset, so, the logistic regression is the best model from now on in this project.
 
-Please check my blog post to get more details, here is the link.
