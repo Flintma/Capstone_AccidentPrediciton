@@ -1,5 +1,5 @@
 # Capstone_AccidentPrediciton
-This is for IBM DATA SCIENCE CAPSTONE PROJECT
+This is for UDACITY Data Scientist Nanodegree project
 Overview
 Sparkify is a digital music service similar to Netease Cloud Music or QQ Music. Many of the users stream their favorite songs in Sparkify service everyday, either using free tier that places advertisements in between the songs, or using the premium subscription model where they stream music as free, but pay a monthly flat rate. User can upgrade, downgrade or cancel their service at anytime.
 
