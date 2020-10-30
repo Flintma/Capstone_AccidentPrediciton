@@ -18,5 +18,5 @@ TEST_SET contains the orgianl set data set
 
 Please feel free to use the coding
 
-Here is the medium post link: https://medium.com/@maflint7/predect-clients-churn-da9ff5f8f5f8
+Here is the medium post link: https://maflint7.medium.com/
 
