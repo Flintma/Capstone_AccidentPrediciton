@@ -4,24 +4,17 @@ This is for UDACITY Data Scientist Nanodegree project
 Installation
 
 Python 3.6
-PySpark ML
+Xgboost ML
 Jupyter
-Results
-The baseline of four machine learning methods: Logistic Regression, Linear SVC, Decision Tree Classifier and Random Forest Classifier.
 
 
 Project Motivation
-Sparkify is a digital music service similar to Netease Cloud Music or QQ Music. Many of the users stream their favorite songs in Sparkify service everyday, either using free tier that places advertisements in between the songs, or using the premium subscription model where they stream music as free, but pay a monthly flat rate. User can upgrade, downgrade or cancel their service at anytime.
-This is a Customer Churn Prediction Problem , there are so many similar projects, such as WSDM - KKBox's Churn Prediction Challenge competition from Kaggle, and a few helpful links are follows:
-Customer Churn Prediction using Machine Learning (How To)
-Prediction of Customer Churn with Machine Learning
-Customer Churn Prediction and Prevention
-Hands-on: Predict Customer Churn
+The Data is located at the City of Las Vegas Open Data Portal. It presents restaurant inspections that took place in the Las Vegas metropolitan area. The goal is to predict the outcome of a restaurant's next inspection
 
 FIle Discription
-Sparkify.ipynb contains the jupyter notebook file
-Sparkify Report.pdf contains the project report
-
+Code.ipynb contains the jupyter notebook file
+TRAIN_SET contains the orginal training data set
+TEST_SET contains the orgianl set data set
 
 Please feel free to use the coding
 
